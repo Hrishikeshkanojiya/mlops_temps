@@ -4,4 +4,4 @@ def add_num(x,y):
     return x + y 
 
 
-print (add(1,2))
+print (add_num(1,2))
